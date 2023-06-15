@@ -1,0 +1,3 @@
+rootProject.name = 'mall'
+include 'mall-admin'
+include 'mall-demo'
